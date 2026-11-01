@@ -11,26 +11,45 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Conference Papers</h2><hr />
 
+<ol>
+  <li>
+    <strong><a href="{{ base_path }}/publication/2024-01-01-universal-truthfulness-hyperplane">On the Universal Truthfulness Hyperplane Inside LLMs</a></strong><br />
+    <strong>Junteng Liu</strong> (First author), Shiqi Chen, Yu Cheng, Junxian He<br />
+    Published in <em>EMNLP 2024 (Conference on Empirical Methods in Natural Language Processing)</em>, 2024.<br />
+    GitHub code repository: <code>Universal_Truthfulness_Hyperplane</code>
+  </li>
+  <li>
+    <strong><a href="{{ base_path }}/publication/2024-01-02-in-context-sharpness-alerts">In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation</a></strong><br />
+    Shiqi Chen, Miao Xiong, <strong>Junteng Liu</strong> (Co-author), Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He<br />
+    Published in <em>ICML 2024 (International Conference on Machine Learning)</em>, 2024.
+  </li>
+  <li>
+    <strong><a href="{{ base_path }}/publication/2023-01-01-c-eval">C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models</a></strong><br />
+    Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, <strong>Junteng Liu</strong> (Co-author), Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He<br />
+    Published in <em>NeurIPS 2023 (Neural Information Processing Systems)</em>, 2023.
+  </li>
+  <li>
+    <strong><a href="{{ base_path }}/publication/2023-01-02-composing-parameter-efficient-modules">Composing Parameter-Efficient Modules with Arithmetic Operations</a></strong><br />
+    Jinghan Zhang, Shiqi Chen, <strong>Junteng Liu</strong> (Co-author), Junxian He<br />
+    Published in <em>NeurIPS 2023 (Neural Information Processing Systems)</em>, 2023.
+  </li>
+</ol>
 
+<h2>Journal Articles / Preprints</h2><hr />
 
+<ol>
+  <li>
+    <strong><a href="{{ base_path }}/publication/2025-01-01-synlogic">SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond</a></strong><br />
+    <strong>Junteng Liu</strong> (First author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He<br />
+    Published in <em>Arxiv</em>, 2025.<br />
+    GitHub code repository: Available on GitHub
+  </li>
+  <li>
+    <strong><a href="{{ base_path }}/publication/2025-01-02-perception-bottleneck-vlm">On the Perception Bottleneck of VLMs for Chart Understanding</a></strong><br />
+    <strong>Junteng Liu</strong> (First author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He<br />
+    Published in <em>Arxiv</em>, 2025.<br />
+    GitHub code repository: <code>Vision4Chart</code>
+  </li>
+</ol>
