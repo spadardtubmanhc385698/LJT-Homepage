@@ -9,7 +9,7 @@ redirect_from:
 
 ## Personal Details
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/hkust-nlp), [Hong Kong University of Science and Technology](https://www.ust.hk/) (also known as **HKUST**), advised by [Professor Junxian He](https://junxianhe.github.io/). Prior to joining HKUST, I completed my undergraduate studies at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (**SJTU**), graduating in **June 2024**, where I was also previously advised by **Professor Junxian He** (who leads the HKUST NLP Group focusing on natural language processing research).
+I am a first-year PhD candidate at the **HKUST NLP Group**, **Hong Kong University of Science and Technology** (also known as **HKUST**), supervised by **Professor Junxian He**. Prior to joining HKUST, I completed my undergraduate studies at **Shanghai Jiao Tong University** (**SJTU**), graduating in **June 2024**, where I was also previously advised by **Professor Junxian He** (who is a Professor at and leads the HKUST NLP Group focusing on natural language processing research).
 
 My research focuses on **natural language processing (NLP)** and **machine learning (ML)**. Specifically, my research interests include:
 - **LLM Reasoning and Reinforcement Learning**
@@ -35,20 +35,20 @@ My research focuses on **natural language processing (NLP)** and **machine learn
 
 ## Research Experience
 
-- **Ph.D. Candidate in Computer Science**, **HKUST NLP Group**, *Hong Kong University of Science and Technology (HKUST)* (2024 - Present)  
-  - Research supervisor: **Professor Junxian He**  
-  - Focus: Natural Language Processing and Machine Learning
+- **First-year PhD Candidate at HKUST NLP Group**, *Hong Kong University of Science and Technology (HKUST)* (2024 - Present)  
+  - Supervisor: **Professor Junxian He**  
+  - Research focus: Natural Language Processing and Machine Learning
 
-- **Research Intern**, **MINIMAX** (February 2025 - Present)  
+- **Research Intern at MINIMAX** (February 2025 - Present)  
   - AI/technology company
 
-- **Research Intern**, **Tencent WXG** (June 2024 - September 2024)  
+- **Research Intern at Tencent WXG** (June 2024 - September 2024)  
   - Division of Tencent technology company  
-  - Research advisor: **Zifei Shan** (Tencent WXG)
+  - Advisor: **Zifei Shan** (works at Tencent WXG)
 
-- **Research Intern**, **Shanghai AI Lab** (June 2023 - December 2023)  
+- **Research Intern at Shanghai AI Lab** (June 2023 - December 2023)  
   - AI research laboratory  
-  - Research advisor: **Prof. Yu Cheng** (Professor associated with Shanghai AI Lab)
+  - Advisor: **Prof. Yu Cheng** (Professor associated with Shanghai AI Lab)
 
 ---
 
@@ -72,12 +72,12 @@ My research focuses on **natural language processing (NLP)** and **machine learn
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)  
    **Junteng Liu** (First author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
    *Published on Arxiv*, 2025.  
-   *Code*: Has GitHub code repository ([Vision4Chart](https://github.com/hkust-nlp/Vision4Chart)).
+   *Code*: Has GitHub code repository: `Vision4Chart`.
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** (2024)  
    **Junteng Liu** (First author), Shiqi Chen, Yu Cheng, Junxian He  
    *Published at EMNLP 2024 (Conference on Empirical Methods in Natural Language Processing)*, 2024.  
-   *Code*: Has GitHub code repository ([Universal_Truthfulness_Hyperplane](https://github.com/Universal_Truthfulness_Hyperplane)).
+   *Code*: Has GitHub code repository: `Universal_Truthfulness_Hyperplane`.
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024)  
    Shiqi Chen, Miao Xiong, **Junteng Liu** (Co-author), Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  
@@ -95,7 +95,7 @@ My research focuses on **natural language processing (NLP)** and **machine learn
 
 ## Contact Information
 
-- **Email**: jliugi@connect.ust.hk
-- **GitHub**: [Vicent0205](https://github.com/Vicent0205) (`https://github.com/Vicent0205`)
-- **Google Scholar profile**: [https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter) account**: [@junteng88716710](https://twitter.com/junteng88716710)
+- **Email**: `jliugi@connect.ust.hk` (HKUST email account)
+- **GitHub**: `Vicent0205` (https://github.com/Vicent0205)
+- **Google Scholar profile**: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+- **X (Twitter) account**: `@junteng88716710`
